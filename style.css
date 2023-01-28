@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d5e9d5;
+}
+
+#experience {
+  background-color: #d5e9d5;
+}
+
+#contact {
+  background-color: #d5e9d5;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer .socials {
+  padding-bottom: 2rem;
+}
+
+footer .socials a {
+  color: #fff;
+  margin: 1rem;
+}
+
+footer .socials a:hover {
+  color: #000;
+}
+
+footer .credit {
+  font-size: 0.8rem;
+}
+
+footer .credit a {
+  color: #000;
+  font-weight: 700;
+}
